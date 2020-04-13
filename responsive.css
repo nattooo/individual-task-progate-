@@ -1,0 +1,46 @@
+@media all and (max-width: 1000px) {
+	.top-wrapper {
+		padding: 150px 0 160px 0;
+	}
+
+	.top-wrapper h1 {
+		font-size: 40px;
+	}
+
+	.top-wrapper h2 {
+		font-size: 20px;
+	}
+
+	.section-title {
+		font-size: 22px;
+	}
+
+    .experience {
+		float: left;
+		width: 50%;
+		color: rgba(0, 0, 0, 0.6);
+		text-align: center;
+	}
+
+	.experience p {
+		font-size: 13px;
+		padding-bottom: 60px;
+	}
+
+	.email,
+	.message {
+		width: 60%;
+	}
+
+	.contact-form p {
+		font-size: 13px;
+	}
+
+	.contact-submit {
+		font-size: 13px;
+	}
+
+	footer a {
+		font-size: 13px;
+	}
+}
